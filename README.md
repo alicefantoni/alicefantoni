@@ -1,6 +1,10 @@
 ## Hi!! I'm Alice Fantoni, Business Intelligence student!
+🎓 Information Systems student at USP | Technical Degree in Systems Development (Colégio Pedro II)<br>
+📊 Experienced in Business Intelligence, Data Analytics and Python<br>
+🛠️ Worked with Qlik Sense, PostgreSQL, Pandas and web scraping<br>
+🚀 Currently exploring PowerBI<br>
 
-[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicefantoni)](https://github.com/alicefantoni/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alicefantoni&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
